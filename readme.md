@@ -1,5 +1,5 @@
 # Juan Furlan
-<img src="IMG_0750.JPG" width="200px" height="300px">
+<img src="IMG_0750.JPG" width="200px" height="250px">
 Mi nombre es Juan Manuel Furlan Hermida, mi legajo es 176.227-8.
 Tengo 18 años, arranque la facultad ya de manera virtual en 2020.
 
